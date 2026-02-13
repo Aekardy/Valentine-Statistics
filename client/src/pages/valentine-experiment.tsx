@@ -112,10 +112,10 @@ export default function ValentineExperiment() {
             Research Paper No. 143
           </div>
           <h1 className="text-4xl md:text-6xl font-serif font-medium mb-4 text-slate-900 leading-tight">
-            A Small Statistical Experiment
+            A SMALL (silly) STATISTICAL EXPERIMENT
           </h1>
           <p className="text-xl md:text-2xl text-slate-500 font-serif italic mt-4">
-            Subject: <span className="text-slate-800 font-normal not-italic border-b-2 border-rose-200">Us</span>
+            subject: <span className="text-slate-800 font-normal not-italic border-b-2 border-rose-200">us</span>
           </p>
           
           <motion.div 
@@ -153,11 +153,11 @@ export default function ValentineExperiment() {
           <ul className="space-y-4 text-center">
             <li className="p-3 bg-slate-50 rounded border border-slate-100 font-serif text-lg text-slate-700">
               <span className="font-mono text-xs text-rose-500 block mb-1">x₁</span>
-              Your cuteness
+              Your cuteness factor
             </li>
             <li className="p-3 bg-slate-50 rounded border border-slate-100 font-serif text-lg text-slate-700">
               <span className="font-mono text-xs text-rose-500 block mb-1">x₂</span>
-              Our conversations
+              Our dumb conversations
             </li>
             <li className="p-3 bg-slate-50 rounded border border-slate-100 font-serif text-lg text-slate-700">
               <span className="font-mono text-xs text-rose-500 block mb-1">x₃</span>
@@ -180,7 +180,7 @@ export default function ValentineExperiment() {
             <div className="p-6 rounded-lg border-2 border-rose-100 bg-rose-50/30">
               <h4 className="font-mono text-sm text-rose-500 mb-2">Alternative Hypothesis (H₁)</h4>
               <p className="font-serif text-lg text-slate-800">
-                Asking you to be my Valentine significantly increases the happiness factor.
+                Asking you to be my Valentine significantly increases the happyness factor.
               </p>
               <p className="mt-2 text-xs font-mono text-rose-400">Projected Outcome: Optimal</p>
             </div>
@@ -287,7 +287,7 @@ export default function ValentineExperiment() {
                 Experiment Successful
               </h2>
               <p className="text-rose-700">
-                Results validated. Happiness factor increasing exponentially.
+                Results validated. Happyness factor increasing exponentially.
               </p>
             </div>
 
@@ -308,11 +308,11 @@ export default function ValentineExperiment() {
                 >
                   <div className="inline-block p-6 rounded-xl bg-white border border-slate-200 shadow-lg">
                     <p className="text-xs font-mono text-slate-400 mb-2 uppercase tracking-widest">
-                      Principal Investigator
+                      Principal Kaleshi Investigator
                     </p>
                     <a href="tel:9902299331" className="flex items-center gap-3 text-2xl font-mono text-slate-800 hover:text-rose-600 transition-colors">
                       <Phone className="w-5 h-5" />
-                      9902299331
+                      9836171492
                     </a>
                   </div>
                   
@@ -323,7 +323,7 @@ export default function ValentineExperiment() {
                     className="text-3xl md:text-5xl font-serif text-rose-500 pt-8 leading-tight"
                   >
                     Happy Valentine's Day <br/>
-                    <span className="font-bold italic">puchku!!</span>
+                    <span className="font-bold italic">Puchku!❤️🐼</span>
                   </motion.div>
                 </motion.div>
               )}
